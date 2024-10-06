@@ -52,11 +52,11 @@ nav ul li a {
 .greetings-text h1 {
   font-size: 2em;
 }
-picture {
+picture img {
   height: 200px;
   width: auto;
   border: 2px double blueviolet;
-  border-right: 50%;
+  border-radius: 100%;
 }
 .contact-icons {
   display: flex;
